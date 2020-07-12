@@ -6,9 +6,3 @@ Basically I'm a 21 year old college dropout whos trying to get his life together
 My skill level is pretty basic, but no matter where you are right now in your skill set, you can always make cool things. 
 <br>
 *Keep learning, have fun, let's program*
-
-### How I make things atm
-1. **Figma** (UI and Design) -> I'm bad at this 
-2. **HTML/CSS** -> I finish all HTML and CSS before touching Javascipt
-3. **Javascript** -> Planning on learning a front-end framework in the near future
-4. Deploy via Github pages
