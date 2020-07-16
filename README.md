@@ -8,4 +8,4 @@ find cool or will use.
 
 My skill level is pretty basic, but no matter where you are right now in your skill set, you can always make cool things. 
 <br>
-###*Keep learning, have fun, let's program*
+### *Keep learning, have fun, let's program*
