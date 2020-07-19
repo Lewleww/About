@@ -1,5 +1,5 @@
 ### Who am I?
-Basically I'm a 21 year old college dropout whos trying to get his life together. 
+Basically I'm a 21 year old college dropout whos trying to get their life together. 
 I lack motivation from time to time, but I think the internet is a pretty awesome place, 
 and it's something I want to contribute to. I love making things that other people will 
 find cool or will use.
